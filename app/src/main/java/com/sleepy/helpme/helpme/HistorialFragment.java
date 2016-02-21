@@ -34,9 +34,9 @@ public class HistorialFragment extends Fragment {
             RecyclerView recyclerView = (RecyclerView) view;
             recyclerView.setLayoutManager(new LinearLayoutManager(context));
             List tater = new ArrayList<String>();
-            tater.add("patata");
-            tater.add("patata2");
-            tater.add("patata3");
+            tater.add("cas 1");
+            tater.add("cas 2");
+            tater.add("cas 3");
             recyclerView.setAdapter(new MyCaseRecyclerViewAdapter(tater));
         }
         return view;

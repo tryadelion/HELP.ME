@@ -25,14 +25,14 @@ card_view:cardCornerRadius="4dp"
             android:id="@+id/content"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="patata"
+            android:text="Test de llista de casos"
             android:textSize="28sp" />
 
         <TextView
             android:id="@+id/id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="el test de sa patata es molt bàsic."
+            android:text="Test de llista de casos"
             android:textSize="20sp" />
 
         <TextView

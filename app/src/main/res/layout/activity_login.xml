@@ -25,7 +25,8 @@
         android:inputType="textEmailAddress"
         android:ems="10"
         android:id="@+id/etUser"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:text="joanPlan" />
 
     <EditText
         android:layout_width="fill_parent"
@@ -33,7 +34,8 @@
         android:inputType="textPassword"
         android:ems="10"
         android:id="@+id/etPass"
-        android:layout_gravity="center_horizontal" />
+        android:layout_gravity="center_horizontal"
+        android:text="grabAtowel42" />
 
     <Button
         android:layout_width="fill_parent"
